@@ -1,0 +1,8 @@
+youtube.com###comments
+||youtube.com/annotations_invideo?$object-subrequest
+youtube.com##.video-annotations
+youtube.com###actions
+youtube.com###comment-teaser
+youtube.com###sponsor-button
+youtube.com###purchase-button
+youtube.com###ticket-shelf
