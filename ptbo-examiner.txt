@@ -15,4 +15,4 @@ thepeterboroughexaminer.com##.pull-right
 thepeterboroughexaminer.com##.tsMarketing
 thepeterboroughexaminer.com###footer-col-four
 
-thepeterboroughexaminer.com##body .subscriber-only{display: inline-block !important;}
+thepeterboroughexaminer.com##.subscriber-only:style(display: inline-block !important)
