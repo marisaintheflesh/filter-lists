@@ -1,0 +1,18 @@
+https://www.thepeterboroughexaminer.com/tncms/access/rules/
+https://www.thepeterboroughexaminer.com/tncms/access/user/
+thepeterboroughexaminer.com###tncms-region-article_instory_top
+thepeterboroughexaminer.com##.access-login
+thepeterboroughexaminer.com##.not-logged-in
+thepeterboroughexaminer.com##.notLoggedIn
+thepeterboroughexaminer.com##.cm
+thepeterboroughexaminer.com##.comment-indicator
+thepeterboroughexaminer.com##.card-comment-count
+thepeterboroughexaminer.com###comments-container
+thepeterboroughexaminer.com##.next
+thepeterboroughexaminer.com##.prev
+thepeterboroughexaminer.com###topbar-col-two
+thepeterboroughexaminer.com##.pull-right
+thepeterboroughexaminer.com##.tsMarketing
+thepeterboroughexaminer.com###footer-col-four
+
+thepeterboroughexaminer.com##body .subscriber-only{display: inline-block !important;}
